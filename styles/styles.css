@@ -1,5 +1,11 @@
 @import "./button.css";
 
+h1{
+    font-size:17px;
+    line-height:20.4px;
+    font-family: Lato, Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
 
 
 body {
